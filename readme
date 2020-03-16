@@ -1,0 +1,13 @@
+What is Palindrome?
+Given a string if the string is read tha same in both direction, it is called palindrome. 
+
+Example
+"Racecar" True
+"Visual"  False
+"Civic"   True
+
+The c# program create ispalindrome method.
+concert the string to lowercase using method ToLower.
+scan and compare each character from start and from end.
+returns true if start has same character to end.
+returns false if one of the pair is not same.

@@ -1,0 +1,11 @@
+D:\Ispalendrom\Ispalendrom\bin\Debug\netcoreapp3.1\Ispalendrom.exe
+D:\Ispalendrom\Ispalendrom\bin\Debug\netcoreapp3.1\Ispalendrom.deps.json
+D:\Ispalendrom\Ispalendrom\bin\Debug\netcoreapp3.1\Ispalendrom.runtimeconfig.json
+D:\Ispalendrom\Ispalendrom\bin\Debug\netcoreapp3.1\Ispalendrom.runtimeconfig.dev.json
+D:\Ispalendrom\Ispalendrom\bin\Debug\netcoreapp3.1\Ispalendrom.dll
+D:\Ispalendrom\Ispalendrom\bin\Debug\netcoreapp3.1\Ispalendrom.pdb
+D:\Ispalendrom\Ispalendrom\obj\Debug\netcoreapp3.1\Ispalendrom.AssemblyInfoInputs.cache
+D:\Ispalendrom\Ispalendrom\obj\Debug\netcoreapp3.1\Ispalendrom.AssemblyInfo.cs
+D:\Ispalendrom\Ispalendrom\obj\Debug\netcoreapp3.1\Ispalendrom.dll
+D:\Ispalendrom\Ispalendrom\obj\Debug\netcoreapp3.1\Ispalendrom.pdb
+D:\Ispalendrom\Ispalendrom\obj\Debug\netcoreapp3.1\Ispalendrom.csprojAssemblyReference.cache
